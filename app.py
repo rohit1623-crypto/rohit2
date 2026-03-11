@@ -50,7 +50,8 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "vqJJA86juUGI",
-        "outputId": "ebf9915c-6642-4c14-a854-8d91e497feba"
+        "outputId": "ebf9915c-6642-4c14-a854-8d91e497feba",
+        "collapsed": true
       },
       "execution_count": 14,
       "outputs": [
